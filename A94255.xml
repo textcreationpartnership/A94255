@@ -1,0 +1,705 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The learned maid; or, Whether a maid may be a scholar? A logick exercise / written in latine by that incomparable virgin Anna Maria à Schurman of Vtrecht. With some epistles to the famous Gassendus and others.</title>
+            <author>Schurman, Anna Maria van, 1607-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94255</idno>
+            <idno type="STC">Wing S902</idno>
+            <idno type="STC">Thomason E1910_3</idno>
+            <idno type="STC">ESTC R209974</idno>
+            <idno type="EEBO-CITATION">99868818</idno>
+            <idno type="PROQUEST">99868818</idno>
+            <idno type="VID">154403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154403)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 237:E1910[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The learned maid; or, Whether a maid may be a scholar? A logick exercise / written in latine by that incomparable virgin Anna Maria à Schurman of Vtrecht. With some epistles to the famous Gassendus and others.</title>
+                  <author>Schurman, Anna Maria van, 1607-1678.</author>
+               </titleStmt>
+               <extent>[8], 55, [1] p. : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Redmayne.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis. = ill.</note>
+                  <note>Annotation on Thomason copy: "June".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schurman, Anna Maria van, 1607-1678 --  Early works to 1800.</term>
+               <term>Women --  Education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154403:1" rendition="simple:additions"/>
+            <p>THE LEARNED MAID; OR, Whether a MAID may be a Scholar?</p>
+            <p>A LOGICK EXERCISE Written In Latine by that incomparable Virgin <hi>Anna Maria à Schurman</hi> of <hi>Vtrecht.</hi>
+            </p>
+            <p>
+               <hi>With ſome Epiſtles to the famous</hi> Gaſſendus <hi>and</hi> others.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>
+                  <hi>Ignat.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by JOHN REDMAYNE. 1659.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:154403:2"/>
+            <p>
+               <figure>
+                  <head>ANNA MARIA A. SCHVRMAN. AN<hi rend="sup">o</hi>. AETAT. LII. MDCLIX</head>
+                  <q>
+                     <l>Cernitis hic picta nostros in imagine vultus:</l>
+                     <l>Si negat ars forma, gratia vestra dabit.</l>
+                  </q>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_author">
+            <pb facs="tcp:154403:3"/>
+            <pb facs="tcp:154403:3"/>
+            <head>FR. SPANHEMIUS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Low-Countries ſhew you a Virgin, excellent, not only in the learned Languages, but almoſt in all kinds of Literature; whoſe admirable wit and mind capable of all things, you may juſtly call the utmoſt Eſſay of Nature in this Sex. So largely hath the Divine bounty powred forth it ſelf upon one per<g ref="char:EOLhyphen"/>ſon. If ſhe hath a vaſt underſtanding piercing into all things, ſhe hath al<g ref="char:EOLhyphen"/>ſo a skilful hand marvellouſly obe<g ref="char:EOLhyphen"/>dient to that guide, executing &amp; ex<g ref="char:EOLhyphen"/>preſſing in all materialls whatſoever
+<pb facs="tcp:154403:4"/>
+that commands. But theſe Gifts are far inferiour to thoſe which ſhe accounteth chief; Piety without Oſtentation, Modeſty beyond Example, and moſt Exemplary Holineſs of Life and Converſa<g ref="char:EOLhyphen"/>tion. And though ſhe moſt de<g ref="char:EOLhyphen"/>ſerveth Praiſe, yet (which is a<g ref="char:EOLhyphen"/>bove all Praiſe) She deſireth no<g ref="char:EOLhyphen"/>thing leſs, &amp;c.</p>
+            <closer>
+               <signed>In Epist. ad Lect.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154403:4"/>
+            <head>TO THE HONOURABLE LADY, THE <hi>LADY A. H.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>ſtrange maid,</hi> being now the ſecond time, dreſt up in her <hi>Engliſh Habit,</hi> cometh to kiſs your hand. She hopes you will admit her to your <hi>Cloſet,</hi> and ſpeak a
+<pb facs="tcp:154403:5"/>
+good word for her to your worthy <hi>Friends,</hi> and endear her to <hi>Them</hi> alſo. Her <hi>Company</hi> will be the more <hi>delightfull,</hi> becauſe her <hi>diſcourſe</hi> is very <hi>rational,</hi> and much tending to the <hi>perfecti<g ref="char:EOLhyphen"/>on</hi> of that <hi>Sexe,</hi> where<g ref="char:EOLhyphen"/>of you, <hi>excellent Lady,</hi> by your <hi>Noble Vir<g ref="char:EOLhyphen"/>tues</hi> are ſo great an <hi>Or<g ref="char:EOLhyphen"/>nament</hi> and <hi>Example.</hi>
+            </p>
+            <closer>
+               <signed>The Honourer of your Piety, more then of your Fortune; <hi>C. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154403:5"/>
+            <head>The Learned <hi>Maid.</hi> A Logicall Exerciſe upon this Queſtion.</head>
+            <head type="sub">Whether a <hi>Maid</hi> may be a Scholar?</head>
+            <div n="argument" type="part">
+               <p>
+                  <seg rend="decorInit">W</seg>E hold the <hi>Affirmative,</hi> and will endeavour to make it good.</p>
+               <p>Theſe <hi>Praecognita</hi> we pre<g ref="char:EOLhyphen"/>mit: Firſt on the part of the <hi>Subject,</hi> and then of the <hi>Predicate.</hi>
+               </p>
+               <p>By a <hi>Maid or Woman,</hi> I underſtand her that is a <hi>Chriſtian,</hi> and that not in Profeſſion onely, but really and in<g ref="char:EOLhyphen"/>deed.</p>
+               <p>By a <hi>Scholar,</hi> I mean one that is given
+<pb n="2" facs="tcp:154403:6"/>
+to the ſtudy of <hi>Letters,</hi> that is, the knowledge of <hi>Tongues</hi> and <hi>Hiſtories,</hi> all kinds of Learning, both ſuperiour en<g ref="char:EOLhyphen"/>titled <hi>Faculties;</hi> and inferiour, call'd <hi>Philoſophy.</hi> We except onely <hi>Scriptu<g ref="char:EOLhyphen"/>ral Theology,</hi> properly ſo named, as that which without Controverſie belongs to all Chriſtians.</p>
+               <p>When we enquire, <hi>whether she may be,</hi> we mean whether it be <hi>convenient,</hi> that is, expedient, fit, decent.</p>
+               <p>The <hi>words</hi> being thus diſtinguiſhed, the <hi>Things</hi> are to be diſtinguiſhed al<g ref="char:EOLhyphen"/>ſo.</p>
+               <p>For ſome <hi>Maids</hi> are <hi>ingenious,</hi> others <hi>not ſo:</hi> ſome are <hi>rich,</hi> ſome <hi>poor:</hi> ſome <hi>engaged</hi> in Domeſtick cares, o<g ref="char:EOLhyphen"/>thers <hi>at liberty.</hi>
+               </p>
+               <p>The ſtudies of a <hi>Scholar</hi> are either <hi>univerſal,</hi> when we give our ſelves to all ſorts of Learning: or <hi>particular,</hi> when we learn ſome one Language or Sci<g ref="char:EOLhyphen"/>ence, or one diſtinct Faculty.</p>
+               <p>
+                  <hi>Wherefore we make uſe of theſe Limitations:</hi>
+               </p>
+               <p>
+                  <pb n="3" facs="tcp:154403:6"/>Firſt of the <hi>Subject;</hi> and firſt, that our <hi>Maid</hi>
+                  <note n="†" place="margin">
+                     <hi>Of the erudition of</hi> Maids <hi>you may read in</hi> Liv. 3. Plin. Epiſt. 17. l. 1. Athen. 1. Plutarch. de educ. lib. Gord. l. 16. de Negat. Fornar. ad Caſ</note> be endued at leaſt with an indiffe<g ref="char:EOLhyphen"/>rent good <hi>wit,</hi> and not unapt for lear<g ref="char:EOLhyphen"/>ning.</p>
+               <p>Secondly, that ſhe be provided of neceſſaries and not oppreſſed with want: which exception I therefore put in, becauſe few are ſo happy to have Parents to bread them up in ſtu<g ref="char:EOLhyphen"/>dies, and Teachers are chargeable.</p>
+               <p>Thirdly, that the condition of the Times, and her quality be ſuch, that ſhe may have ſpare houres from her general and ſpeciall Calling, that is, from the Exerciſes of Piety and houſ<g ref="char:EOLhyphen"/>hold Affairs. To which end will con<g ref="char:EOLhyphen"/>duce, partly her immunity from cares and employments in her yonger years, partly in her elder age either celibate, or the Miniſtry of handmaids, which are wont to free the richer ſort of Ma<g ref="char:EOLhyphen"/>trons alſo from Domeſtick troubles.</p>
+               <p>Fourthly, let her end be, not vain glory and oſtentation, or unprofita<g ref="char:EOLhyphen"/>ble
+<pb n="4" facs="tcp:154403:7"/>
+curioſitie: but beſide the gene<g ref="char:EOLhyphen"/>rall end, Gods Glory and the ſalvati<g ref="char:EOLhyphen"/>on of her own ſoul; that both her ſelf may be the more vertuous and the more happy, and that ſhe may (if that chargely upon her) inſtruct and direct her Family, and alſo be uſefull, as much as may be to her whole Sex.</p>
+               <p>Next, <hi>Limitations</hi> of the <hi>Predicate, Scholarship,</hi> or the ſtudy of <hi>Letters</hi> I ſo limit, that I clearly affirm all honeſt Diſcipline, or the whole <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Circle and Crown of liberal Arts and Sciences (as the proper and uni<g ref="char:EOLhyphen"/>verſal Good and Ornament of Man<g ref="char:EOLhyphen"/>kind) to be convenient for the <hi>Head</hi> of our <hi>Chriſtian Maid:</hi> yet ſo, that ac<g ref="char:EOLhyphen"/>cording to the Dignity and Nature of every Art or Science, and according to the capacity and condition of the Maid herſelf, all in their order, place and time ſucceed each other in the learning of them, or be commodiouſly conjoyned. But eſpecially let regard be had unto thoſe Arts which have neereſt alliance to <hi>Theology</hi> and the <hi>Moral Virtues,</hi> and are Principally ſub<g ref="char:EOLhyphen"/>ſervient
+<pb n="5" facs="tcp:154403:7"/>
+to them. In which number we reckon <hi>Grammar, Logick, Rhetorick;</hi> eſpecially <hi>Logick,</hi> fitly called <hi>The Key of all Sciences:</hi> and then, <hi>Phyſicks, Me<g ref="char:EOLhyphen"/>taphyſicks, Hiſtory,</hi> &amp;c. and alſo the knowledge of Languages, chiefly of the <hi>Hebrew</hi> and <hi>Greek.</hi> All which may advance to the more facile and full underſtanding of <hi>Holy Scripture:</hi> to ſay nothing now of other Books. The reſt, <hi>i. e. Mathematicks</hi> (to which is alſo referred <hi>Muſick) Poeſie, Picture,</hi> an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the like, not illiberall Arts, may obtain the place of pretty Ornaments and inge<g ref="char:EOLhyphen"/>nious Recreations.</p>
+               <p>Laſtly, thoſe ſtudies which pertain to the practice of the Law, Military Diſcipline, Oratory in the Church, Court, Vniverſity, as leſs proper and leſs neceſſary, we do not very much urge. And yet we in no wiſe yield that our <hi>Maid</hi> ſhould be excluded from the Scholaſtick knowledge or Theory of thoſe; eſpecially, not from underſtand<g ref="char:EOLhyphen"/>ing the moſt noble Doctrine of the <hi>Politicks</hi> or Civil Government.</p>
+               <p>And when we ſay a Maid may be a
+<pb n="6" facs="tcp:154403:8"/>
+Scholar, it is plain we do not affirm Learning to be a property, or a thing requiſite, and preciſely needfull to e<g ref="char:EOLhyphen"/>ternall ſalvation: no, nor as ſuch a good thing which maketh to the very <hi>Eſſence</hi> of Happineſs in this life: but as a mean and very uſefull, conferring much to the integrity and perfection thereof: and as that, which by the con<g ref="char:EOLhyphen"/>templation of excellent things will promote us to a higher degree in the Love of God, and everlaſting Fe<g ref="char:EOLhyphen"/>licity.</p>
+               <p>
+                  <hi>Therefore let our Theſis or Propoſition be: A</hi> Maid <hi>may be a Scholar.</hi>
+               </p>
+               <p>For the confirmation whereof we bring theſe <hi>Arguments:</hi> 1. On the part of the <hi>Subject:</hi> 2. On the part of the <hi>Predicate.</hi>
+               </p>
+               <div n="1" type="argument">
+                  <head>I. Argument, from the Property of the Subject.</head>
+                  <p>WHoſoever is naturally endu'd with the <hi>Principles,</hi> or powers of the
+<pb n="7" facs="tcp:154403:8"/>
+principles of all Arts and Sciences, may be a ſtudent in all Arts and Scien<g ref="char:EOLhyphen"/>ces:</p>
+                  <p>But Maids are naturally endued with the <hi>Principles,</hi> &amp;c. Therefore, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>The Propoſition is thus proved.</hi>
+                  </p>
+                  <p>They that may have the knowledge of <hi>Concluſions</hi> deduced from <hi>Principles</hi> may be Students, <hi>&amp;c.</hi>
+                  </p>
+                  <p>But they that are naturally endued with the <hi>Principles</hi> may have the know<g ref="char:EOLhyphen"/>ledge of <hi>Concluſions</hi> deduced from thoſe <hi>Principles.</hi> Therefore, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The <hi>Aſſertion</hi> may be proved both from the property of the <hi>form</hi> of this Subject, or the rational ſoul: and from the very acts and effects themſelves. For it is manifeſt that Maids doe <hi>actually</hi> learn any Arts and Scien<g ref="char:EOLhyphen"/>ces.</p>
+                  <p>Now, no <hi>Acts</hi> can be without their <hi>Principles.</hi>
+                  </p>
+               </div>
+               <div n="2" type="argument">
+                  <pb n="8" facs="tcp:154403:9"/>
+                  <head>II. Argument. Again from the property of the Subject.</head>
+                  <p>Whoſoever hath naturally a <hi>deſire</hi> of Arts and Sciences, may ſtudy the Arts and Sciences.</p>
+                  <p>But a Maid hath naturally a <hi>deſire</hi> of Arts and Sciences. Therefore, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The Reaſon of the <hi>Major</hi> is mani<g ref="char:EOLhyphen"/>feſt: becauſe Nature doth nothing in vain.</p>
+                  <p>
+                     <hi>The Minor is thus confirmed.</hi>
+                  </p>
+                  <p>That which is in the whole <hi>Species</hi> or kind, is in every <hi>Individual</hi> or par<g ref="char:EOLhyphen"/>ticular perſon; in Maids alſo.</p>
+                  <p>But all Mankind have in them by Nature a deſire of knowledge. (<hi>Ariſtot. Metaph.</hi> 1. 2.) Therefore, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="3" type="argument">
+                  <head>III. Argument, from the externall Property, or Adjunct.</head>
+                  <p>Whoſoever is by God created with <hi>a ſublime countenance,</hi> and erected to<g ref="char:EOLhyphen"/>ward Heaven, may (and ought) give himſelf to the contemplation and
+<pb n="9" facs="tcp:154403:9"/>
+knowledge of ſublime and heavenly things.</p>
+                  <p>But God hath created woman alſo with a ſublime and erected counte<g ref="char:EOLhyphen"/>nance: <hi>Os homini ſublime,</hi> &amp;c. There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="4" type="argument">
+                  <head>IV. Argument.</head>
+                  <p>Whoſoever is in moſt <hi>need</hi> of ſolid and continuall employment, may con<g ref="char:EOLhyphen"/>veniently give himſelf to learning:</p>
+                  <p>But woman is in moſt <hi>need</hi> of ſolid and continual employment: There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The <hi>Major</hi> is good, becauſe nothing doth more exerciſe and intend all the nerves and powers of the mind; (and as the great <hi>Eraſmus</hi> ſaith<note n="†" place="margin">In his Epiſtle to <hi>Budaeus,</hi> where he diſcourſeth of the In<g ref="char:EOLhyphen"/>ſtitution of Sir <hi>Tho. Moores</hi> daughters.</note>) nothing takes ſo full poſ<g ref="char:EOLhyphen"/>ſeſſion of the fair Temple of a Virgins breaſt, as lear<g ref="char:EOLhyphen"/>ning and ſtudy, whither, on all occaſions ſhe may fly for refuge.</p>
+                  <p>
+                     <hi>The Minor is proved by theſe two reaſons.</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="10" facs="tcp:154403:10"/>1. Whoſoever through imbecillity and inconſtancy of diſpoſition or tem<g ref="char:EOLhyphen"/>per, and the innumerable ſnares of the world, is in moſt danger of <hi>vanitie,</hi> is in moſt need of ſolid and perpetual em<g ref="char:EOLhyphen"/>ployment.</p>
+                  <p>But woman, through the imbecilli<g ref="char:EOLhyphen"/>ty and inconſtancy, <hi>&amp;c.</hi> Therefore, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The <hi>Major</hi> in this Syllogiſm is true; becauſe contraries are beſt cured by contraries: and nothing doth more effectually oppoſe vanity, then ſerious and conſtant employment.</p>
+                  <p>The <hi>Minor.</hi> we take to be without controverſie: for hardly any, though Heroical Vertue can ſafely paſs by the Sirens of the world and of youth, unleſs it be buſied about ſerious and ſolid things.</p>
+                  <p n="2">2. The ſecond reaſon to prove the Aſſumption or Minor of the IV. <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> is this:</p>
+                  <p>They that abound with <hi>leiſure</hi> have moſt need of ſolid and continual em<g ref="char:EOLhyphen"/>ployment:</p>
+                  <p>But women of higher rank, moſt
+<pb n="11" facs="tcp:154403:10"/>
+part abound with leiſure. Therefore.</p>
+                  <p>The Major of this ſyllogiſm is good, becauſe leiſure (or idleneſſe) is of it ſelf tedious, yea, burdenſome, ſo that Divine <hi>Nazianzen</hi> juſtly ſaid, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Tis the greateſt pain to be out of action.</hi> And becauſe Idleneſs is the Mother of wickedneſs: <hi>Homines nihil agendo male agere diſcunt.</hi> Men by doing nothing learn to do ill.</p>
+               </div>
+               <div n="5" type="argument">
+                  <head>V. Argument.</head>
+                  <p>They that have the happineſs of a more quiet and free courſe of life, may with moſt convenience follow their ſtudies:</p>
+                  <p>But Maids for the moſt part, have the happineſs of a more quiet and free courſe of life: Therefore.</p>
+                  <p>The reaſon of the <hi>Major</hi> is evident: for nothing is ſo great a friend to ſtu<g ref="char:EOLhyphen"/>dies as Tranquillity and Liberty.</p>
+                  <p>
+                     <hi>The Minor is proved thus:</hi>
+                  </p>
+                  <p>They which for the moſt part have their time to beſtow <hi>upon themſelves,</hi> and are exempt from publick cares
+<pb n="12" facs="tcp:154403:11"/>
+and employments, have the happineſs of a more quiet and free courſe of life:</p>
+                  <p>But Maids (eſpecially during their celibate, or ſingle life) moſt part have their time to beſtow on themſelves, <hi>&amp;c.</hi> Therefore.</p>
+               </div>
+               <div n="6" type="argument">
+                  <head>VI. Argument.</head>
+                  <p>To whom is agreeable the ſtudy of the <hi>principal Sciences,</hi> to the ſame is alſo agreeable the ſtudy of Sciences in<g ref="char:EOLhyphen"/>ſtrumental and ſubſervient:</p>
+                  <p>But, to a Chriſtian woman agrees the ſtudy of the Principal Sciences. Therefore:</p>
+                  <p>The <hi>Major</hi> is firm for this reaſon:</p>
+                  <p>To whom the <hi>end</hi> agrees, to the ſame is convenient alſo the lawfull <hi>means,</hi> whereby we are moſt eaſily brought unto that end:</p>
+                  <p>But the inſtrumental or ſubſervient Sciences are the lawfull means, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Minor</hi> is true, becauſe to a Chri<g ref="char:EOLhyphen"/>ſtian woman agrees the ſtudy, or aſſi<g ref="char:EOLhyphen"/>duous
+<pb n="13" facs="tcp:154403:11"/>
+and ſerious Meditation of Gods Word, the knowledge of God, and contemplation of his moſt beautifull works, as being of moſt concernment to all Chriſtians whatſoever.</p>
+               </div>
+               <div n="7" type="argument">
+                  <head>VII. Argument</head>
+                  <p>The ſtudy of Letters is convenient for them, for whom it is more decent to find themſelves both buſineſs and Recreation <hi>at home</hi> and in private, then abroad among others.</p>
+                  <p>But it is more decent for a Chriſti<g ref="char:EOLhyphen"/>an Maid to find her ſelf both worke and recreation <hi>at home</hi> then abroad: therefore &amp;c.</p>
+                  <p>The <hi>Major</hi> is moſt true: becauſe ſtudies have this prerogative, to give us a delightfull exerciſe, and to recreate us when we have no other company, whence in the Greek proverbe, <hi>A wiſe man</hi> is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>ſelf ſuffi<g ref="char:EOLhyphen"/>cient.</hi>
+                  </p>
+                  <p>The <hi>Minor</hi> is no leſs: becauſe the Apoſtle requireth Women to be <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,<note n="†" place="margin">Keep<g ref="char:EOLhyphen"/>ers at home.</note> 
+                     <hi>Tit.</hi> 2.5. And moreover, Expe<g ref="char:EOLhyphen"/>rience
+<pb n="14" facs="tcp:154403:12"/>
+teſtifies; whoſe tongues, Ears, eyes often travail abroad, hunt<g ref="char:EOLhyphen"/>ing after pleaſures; their faith, dili<g ref="char:EOLhyphen"/>gence, and modeſty too, is generally called into queſtion.</p>
+               </div>
+               <div n="8" type="argument">
+                  <head>VIII. Argument, from the Genus of the predicate, or, of Learning.</head>
+                  <p>Arts and Sciences are convenient for thoſe, to whom <hi>all Virtue</hi> in general is convenient:</p>
+                  <p>But all Virtue in general is conve<g ref="char:EOLhyphen"/>nient for a Maid. Therefore:</p>
+                  <p>The <hi>Major</hi> is evident from the divi<g ref="char:EOLhyphen"/>ſion of Virtue into <hi>Intellectual</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ral:</hi> under the former whereof, the Philoſopher comprehendeth Arts and Sciences.</p>
+                  <p>The <hi>Minor</hi> hath no need of proof: for Virtue, as <hi>Seneca</hi> ſaith, chooſeth her ſervants, neither by their State nor Sexe.</p>
+               </div>
+               <div n="9" type="argument">
+                  <pb n="15" facs="tcp:154403:12"/>
+                  <head>IX. Argument, from the end of Sciences.</head>
+                  <p>Whatſoever <hi>perfects</hi> and <hi>adorns</hi> the intellect of Man, that is fit and decent for a Chriſtian woman:</p>
+                  <p>But Arts and Sciences doe perfect and adorn the intellect. Therefore:</p>
+                  <p>The reaſon of the <hi>Major</hi> is, becauſe all creatures tend unto their laſt and higheſt perfections as that which is moſt convenient for them.</p>
+                  <p>The <hi>Minor</hi> is plain, becauſe Arts and Sciences are <hi>Habits,</hi> and by theſe Ha<g ref="char:EOLhyphen"/>bits are the natural <hi>powers</hi> and facul<g ref="char:EOLhyphen"/>ties of the ſoul proved and perfected.</p>
+               </div>
+               <div n="10" type="argument">
+                  <head>X. Argument.</head>
+                  <p>The things that by their nature con<g ref="char:EOLhyphen"/>duce to the greater <hi>Love of God</hi> and the exciting of his greater reverence in us, are convenient and fit for a Chri<g ref="char:EOLhyphen"/>ſtian Woman:</p>
+                  <p>But Arts and Sciences by their na<g ref="char:EOLhyphen"/>ture conduce, <hi>&amp;c.</hi> Therefore:</p>
+                  <p>
+                     <pb n="16" facs="tcp:154403:13"/>The Verity of the <hi>Major</hi> is clearer then the Light. For the moſt perfect love and reverence of God becometh all mankind; ſo that none can here offend in the exceſs.</p>
+                  <p>The <hi>Minor</hi> is thus confirmed:</p>
+                  <p>That which exhibiteth and propo<g ref="char:EOLhyphen"/>ſeth God and his works to be ſeen and known by us in a more eminent de<g ref="char:EOLhyphen"/>gree, naturally conduceth to the ſtir<g ref="char:EOLhyphen"/>ring up in us the greater love of God and reverence:</p>
+                  <p>But Arts and Sciences exhibite and propoſe God and his Works, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Major</hi> in this laſt ſyllogiſm is proved by this reaſon:</p>
+                  <p>Whatſoever is indeed moſt beauti<g ref="char:EOLhyphen"/>ful, moſt excellent and moſt perfect, that, the more it is known, the more it is loved, and accounted more worthy of reverence or celebration:</p>
+                  <p>But God and his Works are indeed moſt beautifull, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Minor</hi> likewiſe may be proved from the end or effects of Sciences,
+<pb n="17" facs="tcp:154403:13"/>
+which do all confer ſomewhat to the more facile and more diſtinct know<g ref="char:EOLhyphen"/>ledge of God and his Works.</p>
+               </div>
+               <div n="11" type="argument">
+                  <head>XI. Argument.</head>
+                  <p>That which armes us againſt <hi>Here<g ref="char:EOLhyphen"/>ſies,</hi> and detecteth their fraud, is con<g ref="char:EOLhyphen"/>venient for a Chriſtian Woman:</p>
+                  <p>But Sciences arme us, <hi>&amp;c,</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The reaſon of the <hi>Major</hi> is evident: becauſe no Chriſtians in this common danger, ought to neglect their due<g ref="char:EOLhyphen"/>tie.</p>
+                  <p>The <hi>Minor</hi> is proved, becauſe ſound Philoſophy is as a hedge and ſence (to uſe the words of <hi>Clemens Alexandrinus) of the Lords Vineyard,</hi> or of our Saviours Doctrine: Or, being compared with the Goſpel, it is (in Saint <hi>Baſil's</hi> ſimili<g ref="char:EOLhyphen"/>tude) like the <hi>leaves</hi> which are an <hi>Or<g ref="char:EOLhyphen"/>nament</hi> and <hi>Muniment</hi> to the fruit. In<g ref="char:EOLhyphen"/>deed by right reaſon, that corrupt and falſe reaſon, upon which hereſies main<g ref="char:EOLhyphen"/>ly depend, may moſt eaſily be refu<g ref="char:EOLhyphen"/>ted.</p>
+               </div>
+               <div n="12" type="argument">
+                  <pb n="18" facs="tcp:154403:14"/>
+                  <head>XII. Argument.</head>
+                  <p>What teacheth <hi>Prudence</hi> without any detriment of Fame or Modeſty, is con<g ref="char:EOLhyphen"/>venient for a Chriſtian Woman:</p>
+                  <p>But the ſtudies of good Learning teach Prudence, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore:</p>
+                  <p>The <hi>Major</hi> is confeſſed: for no man is ignorant, that the Honour of the Female Sexe is moſt tender, and need<g ref="char:EOLhyphen"/>eth nothing more then Prudence: and how hard a thing it is and full of ha<g ref="char:EOLhyphen"/>zard, to draw Prudence from uſe and Experience.</p>
+                  <p>The <hi>Minor</hi> is proved, becauſe the Writings of Learned men doe offer us not onely excellent <hi>Precepts,</hi> but nota<g ref="char:EOLhyphen"/>ble <hi>Examples,</hi> and do lead us as it were by the hand to Virtue,</p>
+               </div>
+               <div n="13" type="argument">
+                  <head>XIII. Argument.</head>
+                  <p>That which makes to true <hi>Magnani<g ref="char:EOLhyphen"/>mitie,</hi> is Convenient for a Chriſtian Woman:</p>
+                  <p>
+                     <pb n="19" facs="tcp:154403:14"/>But the ſtudy of Letters makes to true magnanimity.</p>
+                  <p>Therefore.</p>
+                  <p>I prove the <hi>Major:</hi> becauſe, the more any one is by nature prone to the vice of puſillanimity, ſo much the more <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eed there is of aid from the oppoſite Virtue. But a Woman is by Nature prone, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore:</p>
+                  <p>The <hi>Minor</hi> is prov'd, becauſe Learn<g ref="char:EOLhyphen"/>ing erecteth the Mind and puts cou<g ref="char:EOLhyphen"/>rage into the heart, and takes off the vizor from thoſe things which are feared by the vulgar, or impotenly affected.</p>
+               </div>
+               <div n="14" type="argument">
+                  <head>XIV. Argument.</head>
+                  <p>That which affecteth and repleni<g ref="char:EOLhyphen"/>ſheth the Mind with honeſt and in<g ref="char:EOLhyphen"/>genuous <hi>delight,</hi> is convenient for a Chriſtian Woman:</p>
+                  <p>But, Learning doth ſo.</p>
+                  <p>Therefore.</p>
+                  <p>The reaſon of the <hi>Major</hi> is, becauſe nothing is more agreeable to humane
+<pb n="20" facs="tcp:154403:15"/>
+nature, then honeſt and ingenuous de<g ref="char:EOLhyphen"/>light, which repreſents in Man a certain ſimilitude of Divine gladneſs. Which <hi>Ariſtotle</hi> alſo highly extolleth. vii. <hi>Eth.</hi> xiii. <hi>Pleaſure</hi> is by nature <hi>a Divine thing</hi> implanted in the hearts of Men.</p>
+                  <p>The <hi>Minor</hi> is proved thus: Becauſe there is no delight or pleaſure (except that of Chriſtians which is ſupernatu<g ref="char:EOLhyphen"/>ral) either more worthy of an ingenu<g ref="char:EOLhyphen"/>ous ſoul, or greater then this, which a<g ref="char:EOLhyphen"/>riſeth from the ſtudy of Letters: as by examples and various reaſons might eaſily be evinced.</p>
+               </div>
+               <div n="15" type="argument">
+                  <head>XV. Argument, from the Oppoſite.</head>
+                  <p>Where <hi>ignorance</hi> and want of know<g ref="char:EOLhyphen"/>ledge is not convenient, there the ſtu<g ref="char:EOLhyphen"/>dy of knowledge is convenient:</p>
+                  <p>But ignorance and want of know<g ref="char:EOLhyphen"/>ledge is not convenient for a Chriſti<g ref="char:EOLhyphen"/>an Woman.</p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Minor</hi> is confirmed thus:</p>
+                  <p>That which is of it ſelf, not onely
+<pb n="21" facs="tcp:154403:15"/>
+the cauſe of errour in the underſtand<g ref="char:EOLhyphen"/>ing, but of vice in the will or action is not convenient for a Chriſtian Wo<g ref="char:EOLhyphen"/>man:</p>
+                  <p>But ignorance and want of know<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge is of it ſelf the cauſe of error, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Major</hi> of this ſyllogiſm is de<g ref="char:EOLhyphen"/>monſtrated; Firſt, in reſpect of errour in the underſtanding; Becauſe igno<g ref="char:EOLhyphen"/>rance in the underſtanding (which is called the <hi>Eye</hi>
+                     <note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> If the light that is in the be darkneſs, how great is that darkneſs. <hi>Matt. vi.</hi>
+                     </note> of the Soul) is nothing elſ but blindneſs, and darknes which is the cauſe of all errour. Secondly, in reſpect of vice in the Will or Action: becauſe, Whatſoever makes men proud, fierce, <hi>&amp;c.</hi> that is the cauſe of Vice in the will or action:</p>
+                  <p>But ignorance and want of know<g ref="char:EOLhyphen"/>ledge makes men proud, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore.</p>
+                  <p>The <hi>Major</hi> is evident, the <hi>Minor</hi> is proved hence; becauſe, the leſs a man knowes himſelf, the more will he pleaſe himſelf and contemn others: And he
+<pb n="22" facs="tcp:154403:16"/>
+who knowes not how much he is igno<g ref="char:EOLhyphen"/>rant of, will be wiſe in his own conceit. And then (as to fierceneſs) nothing is more intractable then ignorance, as <hi>Eraſmus</hi> upon much experience teſti<g ref="char:EOLhyphen"/>fies: And that I may relate a Sentence of Divine <hi>Plato</hi>
+                     <note n="†" place="margin">
+                        <hi>vi.</hi> De Legibus.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Man well bred and inſtructed becomes the mildeſt and Gentleſt of Crea<g ref="char:EOLhyphen"/>tures, but being ill brought up is the wild<g ref="char:EOLhyphen"/>est of all the beaſts of the Earth.</hi> Adde quod ingenuas &amp;c. <hi>Learning mollifies and ſweetens a man and takes away roughneſs of manners and ruſticity.</hi>
+                  </p>
+                  <p>Laſtly, the danger of ignorance, in reſpect of vice, may he ſhewn from the nature of vice and vertue. For, whereas to every vertuous action is re<g ref="char:EOLhyphen"/>quired ſuch<note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>Exactneſs,</hi> that it muſt be conformable on every part to the Rule of right reaſon; to the Nature of vice even the leaſt<note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>Inordination,</hi> which followeth ignorance, may be ſufficient.</p>
+                  <p>
+                     <hi>Teſtimonies and Examples I doe here omit for brevity ſake.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="refutation" type="part">
+               <pb n="23" facs="tcp:154403:16"/>
+               <head>A REFUTATION OF THE ADVERSARIES.</head>
+               <div n="praecognita" type="section">
+                  <head>Theſe <hi>Praecognita</hi> are to be premitted.</head>
+                  <p>FIrſt, there are ſome of the <hi>Adverſa<g ref="char:EOLhyphen"/>ries,</hi> who being as it were blinded by I know not what prejudices, do not limit our <hi>Subject;</hi> but think it fol<g ref="char:EOLhyphen"/>lowes from our <hi>Theſis,</hi> that there is no <hi>choice</hi> neither of Wits, nor of Con<g ref="char:EOLhyphen"/>ditions, to make the <hi>predicate</hi> agree unto it.</p>
+                  <p>Others there are, who ſeem to ac<g ref="char:EOLhyphen"/>knowledge no other <hi>end</hi> of ſtudies, then either Gain or vain Glory: which is the<note n="†" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>prime error,</hi> and ſhamefull
+<pb n="24" facs="tcp:154403:17"/>
+enough: as if it were ſu<g ref="char:EOLhyphen"/>pervacaneous to Philo<g ref="char:EOLhyphen"/>ſophize<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Ariſt. Me<g ref="char:EOLhyphen"/>taph. l. 2.</note> 
+                     <hi>for the avoid<g ref="char:EOLhyphen"/>ing of ignorance.</hi>
+                  </p>
+                  <p>And ſome there are laſty who deny not altogether that ſtudies are conve<g ref="char:EOLhyphen"/>nient for a Maid, but onely an <hi>eminent degree</hi> of Knowledge. Who are perhaps vexed with Emulation, or certainly with fear, leaſt that ſhould at any time come to paſs.</p>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+                  <p>
+                     <hi>Many Scholars excell their Maſters:</hi> and that other ſaying of a very ancient Poet, <hi>Vos etenim juvenes animos geritis Muliebres: Illa Virago Viri.</hi>
+                  </p>
+                  <p>Thoſe Men are ſpirited like Wo<g ref="char:EOLhyphen"/>men, that Virgin like a Man.</p>
+               </div>
+               <div type="section">
+                  <pb n="25" facs="tcp:154403:17"/>
+                  <head>THE THESIS OF THE ADVERSARIES.</head>
+                  <head type="sub">A Chriſtian Maid (or Woman) ex<g ref="char:EOLhyphen"/>cept she be perhaps divinely exci<g ref="char:EOLhyphen"/>ted to it by ſome peculiar motion or inſtinct, may not conveniently give her ſelf to the ſtudy of Letters.</head>
+                  <div n="1" type="argument">
+                     <head>I. Argument. On the part of the Subject.</head>
+                     <p>Whoſoever hath a <hi>weak wit</hi> may not give her ſelf to the ſtudy of Let<g ref="char:EOLhyphen"/>ters:</p>
+                     <p>But Women are of weak wits.</p>
+                     <p>Therefore.</p>
+                     <p>
+                        <pb n="26" facs="tcp:154403:18"/>They will prove the <hi>Major;</hi> becauſe, to the ſtudy of Letters is required a wit firm and ſtrong: unleſs we will la<g ref="char:EOLhyphen"/>bour in vain, or fall into the danger<note n="†" place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> of a diſeaſe of the Intellect.</p>
+                     <p>
+                        <hi>The</hi> Minor, <hi>they think, needeth no Proofe.</hi>
+                     </p>
+                     <p>We <hi>anſwer</hi> to the <hi>Major:</hi> that by our limitation ſuch are exempted, which by imbecillity of their wit are altogether unapt for ſtudies; when we ſtate it, that at leaſt <hi>indifferent good wits</hi> are here required. Then, we ſay, not alwayes <hi>heroical wits</hi> are preciſely ne<g ref="char:EOLhyphen"/>ceſſary to ſtudies: for the number even of learned Men, we ſee, is made up in good part, of thoſe that are of the <hi>middle</hi> ſort.</p>
+                     <p>To the <hi>Minor</hi> we anſwer: It is not <hi>abſolutely</hi> true, but <hi>comparatively</hi> onely, in reſpect of the male Sex. For, though Women cannot be equalled for their wit with thoſe more excellent Men, (who are <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Eagles in the Clouds:</hi>) yet, the matter it ſelf ſpeaks
+<pb n="27" facs="tcp:154403:18"/>
+thus much; Not a few are found of ſo good wit, that they may be admitted to ſtudies, not without fruit. But
+<q>On the contrary we infer</q>
+                     </p>
+                     <p>They that are leſs able by dexterity of <hi>wit,</hi> may moſt conveniently addict themſelves to ſtudies:</p>
+                     <p>But Women are leſs able by dexte<g ref="char:EOLhyphen"/>rity of wit. Therefore.</p>
+                     <p>We prove the <hi>Major,</hi> becauſe ſtudies do ſupply us with aids and helps for our weakneſs:</p>
+                     <p>Therefore.</p>
+                  </div>
+                  <div n="2" type="objection">
+                     <head>II. Objection.</head>
+                     <p>Whoſe mind is not <hi>inclined</hi> to ſtu<g ref="char:EOLhyphen"/>dies, they are not <hi>fit</hi> to ſtudy;</p>
+                     <p>But the minds of Women are not inclined to ſtudies.</p>
+                     <p>They prove the <hi>Major,</hi> becauſe no<g ref="char:EOLhyphen"/>thing is to be done <hi>invitâ Minervâ,</hi> as we ſay, <hi>Againſt the hair.</hi>
+                     </p>
+                     <p>The <hi>Minor</hi> they will prove from uſe and cuſtome; becauſe very ſeldom do Women apply their mind to ſtudy.</p>
+                     <p>We <hi>anſwer</hi> to the <hi>Major.</hi> It ſhould
+<pb n="28" facs="tcp:154403:19"/>
+be thus: <hi>Whoſe mind,</hi> after all means duely tried, <hi>is not inclined to ſtudies:</hi> otherwiſe it is denyed.</p>
+                     <p>To the <hi>Minor</hi> we ſay, no man can rightly judge of our Inclination to ſtu<g ref="char:EOLhyphen"/>dies, before he hath encouraged us by the beſt reaſons and means to ſet upon them: and withall hath given us ſome <hi>taſte</hi> of their ſweetneſs, although in the mean time we do not want examples to evince t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> contrary to be true.</p>
+                  </div>
+                  <div n="3" type="objection">
+                     <head>III. Objection.</head>
+                     <p>The ſtudies of Learning are not convenient for thoſe that are deſtitute of <hi>means</hi> neceſſary to their ſtudies.</p>
+                     <p>But Women are deſtitute of means, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Therefore.</p>
+                     <p>The <hi>Major</hi> is without controverſie.</p>
+                     <p>They endeavour to prove the <hi>Mi<g ref="char:EOLhyphen"/>nor,</hi> becauſe there be no Academies and Colledges, wherein they may ex<g ref="char:EOLhyphen"/>erciſe themſelves.</p>
+                     <p>But we deny this conſequence; for it ſufficeth, that under the conduct of their <hi>Parents,</hi> or of ſome private
+<pb n="29" facs="tcp:154403:19"/>
+Teacher, they may exerciſe themſelves at home.</p>
+                  </div>
+                  <div n="4" type="objection">
+                     <head>IV. Objection.</head>
+                     <p>Studies are not fitt for them whoſe labour miſſeth of its proper <hi>End.</hi>
+                     </p>
+                     <p>But the labour of Women miſſeth of its proper <hi>End.</hi>
+                     </p>
+                     <p>Therefore.</p>
+                     <p>The <hi>Major</hi> may be proved, becauſe the <hi>End</hi> is that for which all things are done.</p>
+                     <p>They prove the <hi>Minor</hi> by this, that Women are ſeldome or never prefer<g ref="char:EOLhyphen"/>red to publicke Offices, Politicall, Eccleſiaſticall, or Academicall.</p>
+                     <p>We <hi>anſwer</hi> to the <hi>Major:</hi> Women, in <hi>ſpeculative</hi> Sciences are never fruſtra<g ref="char:EOLhyphen"/>ted of their <hi>End:</hi> and in the <hi>Practicall</hi> (now ſpoken of) though they attain not the <hi>Primary,</hi> or that publick <hi>End;</hi> yet doe they attain a <hi>Secondary End,</hi> as I may ſay, and more private.</p>
+                  </div>
+                  <div n="5" type="objection">
+                     <pb n="30" facs="tcp:154403:20"/>
+                     <head>V. Objection.</head>
+                     <p>To whom, for their Vocation, it is ſufficient to know a <hi>little,</hi> to them is not convenient the <hi>Encyclopaedy,</hi> or a more ſublime degree of knowledge.</p>
+                     <p>But it is ſufficient to Women, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Therefore.</p>
+                     <p>They prove the <hi>Major,</hi> becauſe it is not convenient for any one to ſtudy things ſuperfluous and impertinent to his Calling.</p>
+                     <p>The <hi>Minor</hi> they will prove; becauſe forſooth the Vocation of a Maid, or Woman, is included in very narrow limits, the termes of a private or Oeco<g ref="char:EOLhyphen"/>nomicall life.</p>
+                     <p>Let the <hi>Major</hi> paſs, we <hi>anſwer</hi> to the <hi>Minor.</hi> There is an ambiguity in the words; Firſt, <hi>Vocation:</hi> for, if here they underſtand the <hi>Vocation</hi> of a private life, oppoſed to publick Offices, We ſay, by the ſame reaſon the <hi>Encyclopaedy</hi> or a more ſublime degree of Know<g ref="char:EOLhyphen"/>ledge is denied all <hi>men</hi> too, that lead a private life: When yet, that moſt grave
+<pb n="31" facs="tcp:154403:20"/>
+Sentence of <hi>Plutarch</hi> is pronounced of all men of what rank ſoever, without exception; <hi>It becomes a perfect Man,</hi>
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> 
+                        <hi>to know what is to be known, and to doe what is to be done.</hi> But if they underſtand a <hi>ſpeciall Vocati<g ref="char:EOLhyphen"/>on,</hi> in order to a Family and Oecono<g ref="char:EOLhyphen"/>micall cares; We ſay, that the <hi>uniuer<g ref="char:EOLhyphen"/>ſall</hi> Calling which pertaineth chiefly to us all, either as Chriſtians, or at leaſt as men, is in no wiſe excluded by it. Yea, I may be bold to affirm, that a Virgin both may and ought eſpecially to attend upon this <hi>Vniverſall</hi> Calling, as being uſually more free from the im<g ref="char:EOLhyphen"/>pediments of the former.<note n="*" place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> She that is <hi>unmarried careth for the things of the Lord:</hi> 1 Cor. vii. 34. Again, there is ambi<g ref="char:EOLhyphen"/>guity in the words, <hi>it is ſufficient,</hi> which is ſufficiently taken away by what is above ſaid in the <hi>limitation</hi> of the con<g ref="char:EOLhyphen"/>venience and neceſſity of ſtudies.</p>
+                     <p>Wherefore our <hi>Theſis</hi> ſtands firm:</p>
+                     <p>
+                        <hi>A Chriſtian Maid, or Woman, may con<g ref="char:EOLhyphen"/>veniently give her ſelf to Learning:</hi>
+                     </p>
+                     <p>
+                        <pb n="32" facs="tcp:154403:21"/>Whence we draw this <hi>Conſectary.</hi>
+                     </p>
+                     <p>That <hi>Maids</hi> may and ought to be excited and encouraged by the beſt and ſtrongeſt <hi>Reaſons,</hi> by the <hi>Teſtimo<g ref="char:EOLhyphen"/>nies</hi> of wiſe men: and laſtly, by the <hi>examples</hi> of <hi>illuſtrious Women,</hi> to the em<g ref="char:EOLhyphen"/>bracing of this kind of life eſpecially <hi>thoſe</hi> who are above others provided of <hi>leiſure,</hi> and other <hi>means</hi> and <hi>aides</hi> for their <hi>ſtudies,</hi> And, becauſe it is <hi>beſt,</hi> that the mind be ſeaſoned with <hi>Learning</hi> from the very <hi>Infancy:</hi> therefore the <hi>Parents</hi> themſelves are <hi>chiefly</hi> to be ſtir<g ref="char:EOLhyphen"/>red up, as we ſuppoſe, and to be admo<g ref="char:EOLhyphen"/>niſhed of their duty.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="letters">
+               <div n="to gassendus" type="letter">
+                  <pb n="33" facs="tcp:154403:21"/>
+                  <head>ANNA MARIA <hi>à SCHVRMAN</hi> TO THE Famous Scholar PETRUS GASSENDUS.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">Y</seg>OU have lately in your moſt courteous Letters given ſuch a favourable <hi>Character</hi> of me, and deſcribed me after the Pattern of <hi>Virtue</hi> herſelf, that I would not de<g ref="char:EOLhyphen"/>ſire any other <hi>Statue</hi> to be decreed to my eternall Memory, if your
+<pb n="34" facs="tcp:154403:22"/>
+                     <hi>Good-will</hi> here had not carried you beyond the bounds of <hi>Truth.</hi> But, ſeeing <hi>you,</hi> that are in other things a moſt ſevere <hi>Patron</hi> of Truth, are ſo far tranſported, either by the fair wind of flattering <hi>Fame,</hi> or by an exceſſive <hi>Affection</hi> to us, that in accumulating prayſes on me, you have rather expreſſed the <hi>Candour</hi> of your own <hi>Minde,</hi> then my <hi>Ef<g ref="char:EOLhyphen"/>figies,</hi> I ſhould offend againſt your <hi>Genius</hi> and veracity, unleſſe I did without delay deliver you out of this loving errour. I perceive, you have ſo kindly interpreted our ſhort <hi>Diſsertation</hi> of the more po<g ref="char:EOLhyphen"/>lite ſtudies of the <hi>Femal Sexe,</hi> that from thence hath proceeded no ſmall acceſſion to your eſteem of me. And yet, what I pray is greatly to be praiſed in this <hi>writing,</hi> beſides my endeavour ſeriouſly to main<g ref="char:EOLhyphen"/>tain a <hi>liberal</hi> Cauſe, and (if I may have any ſuffrage here) moſt <hi>rea<g ref="char:EOLhyphen"/>ſonable,</hi>
+                     <pb n="35" facs="tcp:154403:22"/>
+ſo far as <hi>Modeſty</hi> would per<g ref="char:EOLhyphen"/>mit? But it is an illuſtrious Argu<g ref="char:EOLhyphen"/>ment of your <hi>Love</hi> to true <hi>Wiſedom,</hi> that you are ſo far from contemning the leaſt <hi>ſpark</hi> of it, even in <hi>our Sex;</hi> that you are pleaſed to <hi>cheriſh</hi> it, and raiſe it up into a <hi>Flame.</hi> Wherefore, though for divers reaſons, I have heretofore reſolved to ſend no Letters unto <hi>Strangers;</hi> neverthe<g ref="char:EOLhyphen"/>leſs, becauſe your <hi>Virtue</hi> and your excellent <hi>Benefits</hi> conferred upon the whole <hi>World</hi> of Learning, ex<g ref="char:EOLhyphen"/>empt you out of that number, I ſhould incur the diſpleaſure of all the <hi>Graces,</hi> ſhould I not by ſome <hi>Monument</hi> or other teſtifie, how much cauſe of <hi>joy</hi> I have, from the <hi>Approbation</hi> you have vouchſafed to my courſe of Life, My ambi<g ref="char:EOLhyphen"/>tion is to pleaſe <hi>the Few</hi> and <hi>Good (for to pleaſe the Many is to diſpleaſe the wiſe)</hi> and <hi>you</hi> eſpecially, whom I behold furniſhed with ſuch <hi>Arms,</hi>
+                     <pb n="36" facs="tcp:154403:23"/>
+and <hi>Forces,</hi> that as of late you have excellently vindicated the Reputa<g ref="char:EOLhyphen"/>tion of <hi>ancient Philoſophy;</hi> ſo if need be, you can eaſily defend the common Cauſe of <hi>Good Arts</hi> and <hi>Learning,</hi> againſt the profeſſed <hi>E<g ref="char:EOLhyphen"/>nemies</hi> thereof, or at leaſt the <hi>con<g ref="char:EOLhyphen"/>temners</hi> of the <hi>Female Glory.</hi>
+                  </p>
+                  <closer>
+                     <salute>Farewell</salute> 
+                     <dateline>
+                        <hi>Vtrecht</hi> 
+                        <date>xii. <hi>Kalend. Ian.</hi> MDCXLIV.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div n="to beverovicivs" type="letter">
+                  <pb n="37" facs="tcp:154403:23"/>
+                  <head>ANNA MARIA <hi>à SCHVRMAN,</hi> To the excellent <hi>IOANNES BEVEROVICIVS.</hi>
+                  </head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Have ſeen your Treatiſe, <hi>Of the excellency of the Female Sexe:</hi> but I have onely ſeen it, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> on the By, both by reaſon of vari<g ref="char:EOLhyphen"/>ous little buſineſſes, wherein I am even againſt my will many times engaged; and becauſe I feared, leaſt by detaining it with me, I ſhould be a hindrance to you, and have more regard to my own deſire then your deſign. Truely, I admired your overflowing kindeneſſe, whereby you have been pleaſed, not onely,
+<pb n="38" facs="tcp:154403:24"/>
+by your moſt Elegant ſtile, to aſſert that, which alone I lately requeſted of you, the glory of Learning and Wiſedome to our Sexe: but ſo favour our Cauſe, as to equall us every where to Men, that I may not ſay to prefer us above them in ſome things. Doe not think I am altogether of your Opinion, eſpe<g ref="char:EOLhyphen"/>cially, having raiſed up ſo many Examples of illuſtrious Women to ſo high renown, that your diſ<g ref="char:EOLhyphen"/>courſe ſeemeth to procure them more Envie then Admiration. Wherefore, I doe heartily intreat you, yea by our inviolable Friend<g ref="char:EOLhyphen"/>ſhip I beſeech you, that you would not (as according to your accu<g ref="char:EOLhyphen"/>ſtomed favour toward me, you ſeem to intend) Dedicate this Book to me. For, you are not ig<g ref="char:EOLhyphen"/>norant, with what evil eyes the greateſt part of men (I mean not ſo much Men of the meaneſt
+<pb n="39" facs="tcp:154403:24"/>
+rank, whom it is eaſie to contemn, as Men of great Eſteem) doe be<g ref="char:EOLhyphen"/>bold what tendeth to our praiſe. So that, they thinke we are well dealt with, if wee obtain Pardon for aſpiring to theſe higher ſtudies; ſo farre are they from being plea<g ref="char:EOLhyphen"/>ſed, if they ſhould ſuſpect me to have given the leaſt Occaſion of ſounding forth our prayſes after that manner.</p>
+                  <p>I need not therefore, uſe ma<g ref="char:EOLhyphen"/>ny words to prevaile with you, not to give our Adverſaries new matter of Calumniation, after you have done ſo much in this worke to ſtoppe their mouthes. But if you ſeeke ſome illuſtrious Name to prefixe in the Frontiſpice of this Booke, you will not finde, in my Opinion, any more auſ<g ref="char:EOLhyphen"/>picious then the Name of <hi>N. N.</hi> For, you cannot but receive much Favour from this Noble
+<pb n="40" facs="tcp:154403:25"/>
+Lady, who, as ſhe is exceedingly delighted with good Letters, and the ſtudy of Languages, ſo is ſhe ſafely placed above all danger of Envie.</p>
+                  <p>And, which is the Principall thing, ſhe is able both by her Au<g ref="char:EOLhyphen"/>thoritie and Example, to afford no ſmall Honour to our Cauſe.</p>
+                  <closer>
+                     <salute>Farewell, my excellent Friend.</salute> 
+                     <dateline>
+                        <date>M.DC.XXXIX.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div n="to lady moor" type="letter">
+                  <pb n="41" facs="tcp:154403:25"/>
+                  <head>
+                     <hi>ANNA MARIA à SCHVRMAN</hi> TO THE Moſt Noble Lady MOOR.</head>
+                  <opener>
+                     <salute>Moſt Noble Lady,</salute>
+                  </opener>
+                  <p>YOur Letters ſeemed unto me ſweeter then Nectar; to which, becauſe I am highly delighted in con<g ref="char:EOLhyphen"/>fferring with you, I had returned a more ſpeedy Anſwer, had I not waited for the Bearer my Brother's going that way toward <hi>England.</hi>
+                     <pb n="42" facs="tcp:154403:26"/>
+He will declare unto you the man<g ref="char:EOLhyphen"/>ner of my Life, and open to your view the cloſet of my heart, (where you will finde your ſelf to have a chief place.) Yet I cannot chuſe but ſay ſomething to the grave and ſerious Argument of your Epiſtle. You enquire, how I order and diſ<g ref="char:EOLhyphen"/>poſe of my affairs, that with leaſt offence, I may eſpecially in theſe calamitous times, paſs through the troubles of this Life. Though I acknowledge your ſingular Mo<g ref="char:EOLhyphen"/>deſty and Civility, that you eſteem my Example not unworthy of your Imitation: yet I doubt not, if by Gods Grace, we might once enjoy the happineſs of living together in the ſame houſe, we may be able in ſo great a Conſpiration of ſtudies and affections, to excite each other unto Virtue. However, I will tell you in a word, not what I alwayes attain to, but what mark I aim
+<pb n="43" facs="tcp:154403:26"/>
+at, to come as near as I can. The compendious and ſafeſt way is pointed out unto us by the Pole-Starre of Heavenly Truth. For it was excellently ſaid, by that great Earle of <hi>Mirandula: Philo<g ref="char:EOLhyphen"/>ſophy ſeeks Truth; Theology finds it; Religion poſseſſeth it.</hi> But, that I may not goe from the purpoſe; we determine with the notable Philo<g ref="char:EOLhyphen"/>ſopher <hi>Epictetus</hi> not amiſs; <hi>That Humane Affaires have two Han<g ref="char:EOLhyphen"/>dles:</hi> yet not, as He, One con<g ref="char:EOLhyphen"/>venient, the other inconvenient: but, Both moſt convenient, if they be well and orderly taken. Thus, Whatſoever pertaineth to a Virtuous and happy life, muſt ei<g ref="char:EOLhyphen"/>ther be referred to Divine Provi<g ref="char:EOLhyphen"/>dence, or to our Dutie. As to the firſt, my buſineſs is, that in things out of our power, I may have one onely care, namely, to caſt all my cares upon God: according to that
+<pb n="44" facs="tcp:154403:27"/>
+Advice of the Apoſtle; <hi>Caſt ye all your care upon him, for he careth for you.</hi> For indeed, here is the Ori<g ref="char:EOLhyphen"/>ginall of all our inquietude, that we uſe to roull in our minds too anxiouſly the events of things, which alone depend upon the pleaſure of Almighty God. Next, as to our Duty: it belongeth to us to moderate and govern thoſe things onely which fall under our deliberation, both by our induſtry and prudence.</p>
+                  <p>Nothing doth ſo much throw us out of the Caſtle of Tranquilli<g ref="char:EOLhyphen"/>tie, as evil Examples, and the fal<g ref="char:EOLhyphen"/>lacious enticements of this World: (That I may omit the tediouſ<g ref="char:EOLhyphen"/>neſſe and trouble, perpetually at<g ref="char:EOLhyphen"/>tending their Condition, who act as it were, upon the publicke Stage.) And for this Malady, I find no remedy more preſent and effectuall then the retirement of
+<pb n="45" facs="tcp:154403:27"/>
+Studies. For, ſince the manners of Men are ſo corrupted, one can hardly, raiſe ſo much heat in others for the proſecution of Virtue, as he ſhall abate of his own, for the moſt part, by frequent Conver<g ref="char:EOLhyphen"/>ſation with the Men of this Age. But here, in our receſſe, the va<g ref="char:EOLhyphen"/>nities and deceits of the World, being farre removed, we judge of all things more rightly, and ſecurely contemne the vanities that fill prophaner ſouls with ad<g ref="char:EOLhyphen"/>miration.</p>
+                  <p>Here, ſweetly paſſing away our time with the Muſes, we erect our minds to higher matters, and without impediment runne the courſe of Philoſophy. Whereof you may reade more in the Prin<g ref="char:EOLhyphen"/>ted Epiſtle encloſed. To which I have added my <hi>Effigies</hi> done to the Life with my own hand: that, every way, ſo far as I can, I
+<pb n="46" facs="tcp:154403:28"/>
+may make my ſelfe known unto you.</p>
+                  <closer>
+                     <salute>Farewell, the immortall Honour of our Sexe, and continue your Love to</salute> 
+                     <signed>Her, who loves you moſt affectionately.</signed>
+                     <dateline>
+                        <hi>Vtrecht,</hi> 
+                        <date>
+                           <hi>Cal. April.</hi> MDCXLI.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div n="to d'ewes" type="letter">
+                  <pb n="47" facs="tcp:154403:28"/>
+                  <head>ANNA MARIA <hi>à SCHVRMAN,</hi> To the Honourable. Sr. SIMOND D'EWES.</head>
+                  <p>I Have received your Letters, il<g ref="char:EOLhyphen"/>luſtrious Sir, with great joy, as it was fit to receive Letters that car<g ref="char:EOLhyphen"/>ry with them the pureſt candour, and moſt polite Humanity. And truely, I would not have ſo long delayed my Anſwer, but that for divers reaſons, I have reſolved to write to my Countrey Men not of<g ref="char:EOLhyphen"/>ten, to ſtrangers very ſeldome. Ne<g ref="char:EOLhyphen"/>vertheleſſe, having lately under<g ref="char:EOLhyphen"/>ſtood by the moſt Noble and moſt faithfull Lord <hi>Strickland,</hi> how much you excelled in Honour, and
+<pb n="48" facs="tcp:154403:29"/>
+all kind of Learning, my Virgin-baſhfulneſſe (to which I am uſed to yield very much) bluſheth not to give place to your affable Vir<g ref="char:EOLhyphen"/>tues, as the chiefeſt of all. Where<g ref="char:EOLhyphen"/>fore in Contemplation hereof, I laid hold upon my Pen with an earneſt deſire to doe them that re<g ref="char:EOLhyphen"/>verence by my Letters, which they juſtly require at my hands. And I was not a little encouraged hereunto by your moſt equitable Sentence concerning our Sexe: which I heartily wiſh I could as well make good by my Example, (according to your too favoura<g ref="char:EOLhyphen"/>ble Cenſure) as by reaſons, and Arguments.</p>
+                  <p>As to what you write concern<g ref="char:EOLhyphen"/>ing the moſt Learned Matron, Ma<g ref="char:EOLhyphen"/>dam <hi>Bathſua Metkins,</hi> that ſhe ſo highly commended my Induſtrie in ſublimer ſtudies, and that you were upon that account inflamed
+<pb n="49" facs="tcp:154403:29"/>
+with an incredible deſire of have<g ref="char:EOLhyphen"/>ing conference with me: All this, I impute both to her undeſerved affection toward me, and to your courteſie in giving ſo eaſie an Aſ<g ref="char:EOLhyphen"/>ſent. For you aſcribe unto me ſuch glory of Learning, which if I ſhould willingly admit, I ſhould greatly offend againſt the Lawes of Truth and ſoberneſſe. And yet I will not denie, that I am very much de<g ref="char:EOLhyphen"/>lighted with the beſt and nobleſt things, though ſome times they exceed my capacitie. And I be<g ref="char:EOLhyphen"/>ſeech you thinke not I am inſenſi<g ref="char:EOLhyphen"/>ble of that Concuſſion and ſhaking of your Common-wealth: for whoſe ſafetie my inceſſant Pray<g ref="char:EOLhyphen"/>ers are ſent up to Heaven. Where<g ref="char:EOLhyphen"/>fore, you will doe me a very great favour if, as you promiſe, you pleaſe to communicate unto us (partak<g ref="char:EOLhyphen"/>ers of the ſame cauſe) whatſo<g ref="char:EOLhyphen"/>ever ſhall be atchieved by your
+<pb n="50" facs="tcp:154403:30"/>
+Honourable Aſſemblie either in Peace or Warre.</p>
+                  <closer>
+                     <salute>Farewell, the great <hi>Patron of Learning,</hi> with your moſt gene<g ref="char:EOLhyphen"/>rous Wife, whom I entreat you moſt humbly to ſalute in my name.</salute>
+                     <dateline>
+                        <hi>Vtrecht prid.</hi> 
+                        <date>
+                           <hi>Calend. Novemb.</hi> MDCXLV.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div n="to spanhemivs" type="letter">
+                  <pb n="51" facs="tcp:154403:30"/>
+                  <head>TO THE Reverend Doctor <hi>FREDERICVS SPANHEMIVS</hi> ANNA MARIA <hi>à SCHVRMAN.</hi>
+                  </head>
+                  <p>I Have received your Letters, Reverend Sir, but ſaw not the Miniſter whom you commended to me <hi>De meliore nota,</hi> as a man of the better mark. As to the Edition of my Trifles, which you ſtill per<g ref="char:EOLhyphen"/>ſwade me to yield unto: though I have been hitherto irreſolute, yet now becauſe it is your pleaſure, I cannot any longer reſiſt your counſels, proceeding from ſo much candour and friendſhip.</p>
+                  <p>
+                     <pb n="52" facs="tcp:154403:31"/>Yet becauſe many of the Let<g ref="char:EOLhyphen"/>ters containe little beſide words and complements, I will take a care that the beſt of them (ſuch as they are) ſhall be ſelected and tranſmit<g ref="char:EOLhyphen"/>ted to your hand. But do you cor<g ref="char:EOLhyphen"/>rect, form and reform them ac<g ref="char:EOLhyphen"/>cording to your own mind: and take the ſame power over this Epi<g ref="char:EOLhyphen"/>ſtle which I ſend to <hi>N.</hi> and if you ſuſpect any ſyllable in it that may juſtly offend him, blot it out, and then be pleaſed to ſeal it up and de<g ref="char:EOLhyphen"/>liver it.</p>
+                  <closer>
+                     <salute>Farewell my moſt loving friend: We do alſo very affectionately ſa<g ref="char:EOLhyphen"/>lute you and your dear Wife.</salute>
+                     <dateline>
+                        <hi>Vtrecht</hi> 
+                        <date>ix. <hi>Cal. Ian<g ref="char:punc">▪</g>
+                           </hi> MDCXLVI.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div n="to rivet" type="letter">
+                  <pb n="53" facs="tcp:154403:31"/>
+                  <head>Out of an Epiſtle TO D<hi rend="sup">r.</hi> RIVET.</head>
+                  <p>TO conclude, I will here alledge one Example which is ever before my eyes: the Example of that incomparable Princeſs <hi>Iane Grey,</hi> to whom no Nation, no Age, (Let me ſpeak it with the good leave of all) will afford an equall. <hi>Michael Angelo,</hi> a <hi>Florentine</hi> who deſcribeth the Hiſtorie of her Life and Death fully and patheti<g ref="char:EOLhyphen"/>cally, hath among other things no<g ref="char:EOLhyphen"/>ted this, in the Conference ſhe had which <hi>Fecknam</hi> the Meſſenger of her Death: Namely that ſlight<g ref="char:EOLhyphen"/>ing thoſe other excellent endow<g ref="char:EOLhyphen"/>ments
+<pb n="54" facs="tcp:154403:32"/>
+ſhe had received from God; ſuch as Nobilitie, Beautie, and Youth; whereby ſhe might have acquired Greatneſſe and Glory to her ſelfe in this World; She mag<g ref="char:EOLhyphen"/>nanimouſly pronounced;
+<q>Nothing in all her Life was ſo pleaſant to her, as that ſhe had the Knowledge of the three Learned Tongues. And, if the delight, thence ariſing to us in this Life, may be called by the name of true Fe<g ref="char:EOLhyphen"/>licity, She confeſſed, her ſelfe had found it in the ſtudy of good Let<g ref="char:EOLhyphen"/>ters, and eſpecially of the Holy Scrip<g ref="char:EOLhyphen"/>ture. And, although many men doe greatly blame ſuch ſtudies in a Woman; yet ſhe, for the great com<g ref="char:EOLhyphen"/>fort of her Soul which ſhe had at last perceived thence, and ſtill did perceive within, judged their Opi<g ref="char:EOLhyphen"/>nion contrary to all reaſon.</q>
+                  </p>
+                  <p>
+                     <pb n="55" facs="tcp:154403:32"/>Oh ſweet words, pronounced not under ſhade of the Schools, but at a laſt Act of a moſt Glo<g ref="char:EOLhyphen"/>rious Martyrdome! Who would not reverence this ſaying, and take it for an Oracle.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
